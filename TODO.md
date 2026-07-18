@@ -7,7 +7,6 @@
 
 ## Remaining
 
-- Map + pins
 - Report flow
 - Real triage
 - Offline mode
@@ -15,5 +14,4 @@
 
 ## Known bugs
 
-- The map is intentionally empty until the map-and-pins feature is built.
 - The Report button is intentionally not interactive yet.
