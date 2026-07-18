@@ -1,0 +1,222 @@
+[
+  {
+    "id": "seed-01",
+    "category": "waterlogging",
+    "severity": 5,
+    "lat": 9.9679,
+    "lng": 76.3196,
+    "description_en": "Knee-deep water on the Vyttila Hub approach road, buses splashing pedestrians at the metro exit",
+    "description_ml": "വൈറ്റില ഹബ്ബിലേക്കുള്ള റോഡിൽ മുട്ടോളം വെള്ളം, മെട്രോ എക്സിറ്റിൽ ബസുകൾ യാത്രക്കാരുടെ മേൽ വെള്ളം തെറിപ്പിക്കുന്നു",
+    "verified": true,
+    "timestamp": "2026-07-18T19:40:00+05:30"
+  },
+  {
+    "id": "seed-02",
+    "category": "pothole",
+    "severity": 4,
+    "lat": 9.9655,
+    "lng": 76.3172,
+    "description_en": "Deep pothole hidden under rainwater near Vyttila junction signal, two-wheelers swerving dangerously",
+    "description_ml": "വൈറ്റില ജംഗ്ഷൻ സിഗ്നലിനടുത്ത് മഴവെള്ളത്തിനടിയിൽ മറഞ്ഞ ആഴമുള്ള കുഴി, ഇരുചക്രവാഹനങ്ങൾ അപകടകരമായി വെട്ടിച്ചു പോകുന്നു",
+    "verified": true,
+    "timestamp": "2026-07-18T17:05:00+05:30"
+  },
+  {
+    "id": "seed-03",
+    "category": "waterlogging",
+    "severity": 4,
+    "lat": 9.9952,
+    "lng": 76.2928,
+    "description_en": "Flooded stretch outside Kaloor metro station exit A, commuters wading to reach autos",
+    "description_ml": "കലൂർ മെട്രോ സ്റ്റേഷൻ എക്സിറ്റ് A-ക്ക് പുറത്ത് വെള്ളക്കെട്ട്, യാത്രക്കാർ ഓട്ടോയിലെത്താൻ വെള്ളത്തിലൂടെ നടക്കുന്നു",
+    "verified": true,
+    "timestamp": "2026-07-18T18:20:00+05:30"
+  },
+  {
+    "id": "seed-04",
+    "category": "streetlight",
+    "severity": 3,
+    "lat": 9.9931,
+    "lng": 76.2901,
+    "description_en": "Streetlight dead for a week on the Kaloor–Jawaharlal Nehru Stadium walkway, pitch dark after 7 PM",
+    "description_ml": "കലൂർ–ജവഹർലാൽ നെഹ്റു സ്റ്റേഡിയം നടപ്പാതയിലെ തെരുവുവിളക്ക് ഒരാഴ്ചയായി കത്തുന്നില്ല, വൈകിട്ട് 7 മണിക്ക് ശേഷം കൂരിരുട്ട്",
+    "verified": true,
+    "timestamp": "2026-07-17T21:10:00+05:30"
+  },
+  {
+    "id": "seed-05",
+    "category": "waterlogging",
+    "severity": 5,
+    "lat": 10.0261,
+    "lng": 76.3091,
+    "description_en": "Edappally metro pillar road fully waterlogged, water entering shops near the station exit",
+    "description_ml": "ഇടപ്പള്ളി മെട്രോ പില്ലർ റോഡ് പൂർണമായി വെള്ളത്തിനടിയിൽ, സ്റ്റേഷൻ എക്സിറ്റിനടുത്തുള്ള കടകളിലേക്ക് വെള്ളം കയറുന്നു",
+    "verified": true,
+    "timestamp": "2026-07-18T16:45:00+05:30"
+  },
+  {
+    "id": "seed-06",
+    "category": "garbage",
+    "severity": 3,
+    "lat": 10.0247,
+    "lng": 76.3065,
+    "description_en": "Garbage pile overflowing onto the footpath 200 m from Edappally metro exit, strong smell in the rain",
+    "description_ml": "ഇടപ്പള്ളി മെട്രോ എക്സിറ്റിൽ നിന്ന് 200 മീറ്റർ അകലെ നടപ്പാതയിലേക്ക് മാലിന്യക്കൂമ്പാരം കവിഞ്ഞൊഴുകുന്നു, മഴയിൽ രൂക്ഷമായ ദുർഗന്ധം",
+    "verified": true,
+    "timestamp": "2026-07-17T09:30:00+05:30"
+  },
+  {
+    "id": "seed-07",
+    "category": "pothole",
+    "severity": 4,
+    "lat": 10.1093,
+    "lng": 76.3512,
+    "description_en": "Row of potholes on the Aluva metro station feeder road, autos refusing the stretch after dark",
+    "description_ml": "ആലുവ മെട്രോ സ്റ്റേഷൻ ഫീഡർ റോഡിൽ നിരനിരയായി കുഴികൾ, ഇരുട്ടിയാൽ ഓട്ടോകൾ ഈ വഴി ഓടാൻ മടിക്കുന്നു",
+    "verified": true,
+    "timestamp": "2026-07-18T08:15:00+05:30"
+  },
+  {
+    "id": "seed-08",
+    "category": "fallen_tree",
+    "severity": 4,
+    "lat": 10.1109,
+    "lng": 76.3478,
+    "description_en": "Tree branch down across half the road near Aluva metro exit after last night's wind, one lane blocked",
+    "description_ml": "ഇന്നലെ രാത്രിയിലെ കാറ്റിൽ ആലുവ മെട്രോ എക്സിറ്റിനടുത്ത് മരക്കൊമ്പ് റോഡിന്റെ പകുതിയിലേക്ക് വീണു, ഒരു ലെയ്ൻ തടസ്സപ്പെട്ടു",
+    "verified": true,
+    "timestamp": "2026-07-18T06:50:00+05:30"
+  },
+  {
+    "id": "seed-09",
+    "category": "streetlight",
+    "severity": 3,
+    "lat": 9.9448,
+    "lng": 76.3409,
+    "description_en": "Three consecutive streetlights out near Thrippunithura terminal exit, students walk home in the dark",
+    "description_ml": "തൃപ്പൂണിത്തുറ ടെർമിനൽ എക്സിറ്റിനടുത്ത് തുടർച്ചയായി മൂന്ന് തെരുവുവിളക്കുകൾ കത്തുന്നില്ല, വിദ്യാർത്ഥികൾ ഇരുട്ടത്ത് വീട്ടിലേക്ക് നടക്കുന്നു",
+    "verified": true,
+    "timestamp": "2026-07-16T20:05:00+05:30"
+  },
+  {
+    "id": "seed-10",
+    "category": "waterlogging",
+    "severity": 4,
+    "lat": 9.9469,
+    "lng": 76.3438,
+    "description_en": "Waterlogged underpass on the Thrippunithura station approach, ankle-deep even hours after rain stops",
+    "description_ml": "തൃപ്പൂണിത്തുറ സ്റ്റേഷൻ അപ്രോച്ചിലെ അടിപ്പാതയിൽ വെള്ളക്കെട്ട്, മഴ നിന്ന് മണിക്കൂറുകൾ കഴിഞ്ഞിട്ടും കണങ്കാലോളം വെള്ളം",
+    "verified": true,
+    "timestamp": "2026-07-18T14:30:00+05:30"
+  },
+  {
+    "id": "seed-11",
+    "category": "pothole",
+    "severity": 3,
+    "lat": 9.9741,
+    "lng": 76.2812,
+    "description_en": "Pothole cluster on MG Road near Padma junction slowing evening traffic",
+    "description_ml": "എം.ജി റോഡിൽ പദ്മ ജംഗ്ഷനടുത്ത് കുഴികൾ, വൈകുന്നേരത്തെ ഗതാഗതം ഇഴയുന്നു",
+    "verified": true,
+    "timestamp": "2026-07-17T18:40:00+05:30"
+  },
+  {
+    "id": "seed-12",
+    "category": "garbage",
+    "severity": 2,
+    "lat": 9.9772,
+    "lng": 76.2748,
+    "description_en": "Plastic waste dumped along the Marine Drive walkway railing",
+    "description_ml": "മറൈൻ ഡ്രൈവ് നടപ്പാതയുടെ കൈവരിയോട് ചേർന്ന് പ്ലാസ്റ്റിക് മാലിന്യം തള്ളിയിരിക്കുന്നു",
+    "verified": true,
+    "timestamp": "2026-07-16T07:55:00+05:30"
+  },
+  {
+    "id": "seed-13",
+    "category": "streetlight",
+    "severity": 2,
+    "lat": 9.9661,
+    "lng": 76.2431,
+    "description_en": "Flickering streetlight at Fort Kochi beach road entrance",
+    "description_ml": "ഫോർട്ട് കൊച്ചി ബീച്ച് റോഡ് പ്രവേശന കവാടത്തിലെ തെരുവുവിളക്ക് മിന്നിമറയുന്നു",
+    "verified": true,
+    "timestamp": "2026-07-15T19:25:00+05:30"
+  },
+  {
+    "id": "seed-14",
+    "category": "waterlogging",
+    "severity": 4,
+    "lat": 10.0159,
+    "lng": 76.3421,
+    "description_en": "Kakkanad Civil Line road flooded near InfoPark buses stop, office commuters stranded",
+    "description_ml": "കാക്കനാട് സിവിൽ ലൈൻ റോഡിൽ ഇൻഫോപാർക്ക് ബസ് സ്റ്റോപ്പിനടുത്ത് വെള്ളക്കെട്ട്, ഓഫീസ് യാത്രക്കാർ കുടുങ്ങി",
+    "verified": true,
+    "timestamp": "2026-07-18T09:10:00+05:30"
+  },
+  {
+    "id": "seed-15",
+    "category": "pothole",
+    "severity": 4,
+    "lat": 9.9924,
+    "lng": 76.3068,
+    "description_en": "Large pothole at Palarivattom bypass junction causing two-wheeler skids in the rain",
+    "description_ml": "പാലാരിവട്ടം ബൈപ്പാസ് ജംഗ്ഷനിൽ വലിയ കുഴി, മഴയിൽ ഇരുചക്രവാഹനങ്ങൾ തെന്നിവീഴുന്നു",
+    "verified": true,
+    "timestamp": "2026-07-18T12:00:00+05:30"
+  },
+  {
+    "id": "seed-16",
+    "category": "fallen_tree",
+    "severity": 3,
+    "lat": 9.9571,
+    "lng": 76.2963,
+    "description_en": "Uprooted tree leaning on power lines in Panampilly Nagar 4th avenue",
+    "description_ml": "പനമ്പിള്ളി നഗർ നാലാം അവന്യൂവിൽ വേരോടെ ഇളകിയ മരം വൈദ്യുതി ലൈനിലേക്ക് ചാഞ്ഞിരിക്കുന്നു",
+    "verified": true,
+    "timestamp": "2026-07-17T15:35:00+05:30"
+  },
+  {
+    "id": "seed-17",
+    "category": "waterlogging",
+    "severity": 3,
+    "lat": 9.9649,
+    "lng": 76.2993,
+    "description_en": "Kadavanthra gate road waterlogged, school van route diverted",
+    "description_ml": "കടവന്ത്ര ഗേറ്റ് റോഡിൽ വെള്ളക്കെട്ട്, സ്കൂൾ വാൻ റൂട്ട് വഴിതിരിച്ചുവിട്ടു",
+    "verified": true,
+    "timestamp": "2026-07-18T07:45:00+05:30"
+  },
+  {
+    "id": "seed-18",
+    "category": "garbage",
+    "severity": 3,
+    "lat": 9.9683,
+    "lng": 76.2894,
+    "description_en": "Overflowing waste bin at Ernakulam South railway station entrance, spilling onto the road",
+    "description_ml": "എറണാകുളം സൗത്ത് റെയിൽവേ സ്റ്റേഷൻ കവാടത്തിലെ മാലിന്യവീപ്പ കവിഞ്ഞ് റോഡിലേക്ക് ഒഴുകുന്നു",
+    "verified": true,
+    "timestamp": "2026-07-17T11:20:00+05:30"
+  },
+  {
+    "id": "seed-19",
+    "category": "streetlight",
+    "severity": 3,
+    "lat": 9.9975,
+    "lng": 76.3013,
+    "description_en": "Dark stretch under the metro viaduct near JLN Stadium station, light pole damaged",
+    "description_ml": "ജെഎൽഎൻ സ്റ്റേഡിയം സ്റ്റേഷനടുത്ത് മെട്രോ പാലത്തിനടിയിൽ ഇരുണ്ട ഭാഗം, വിളക്കുകാൽ തകർന്ന നിലയിൽ",
+    "verified": true,
+    "timestamp": "2026-07-16T20:50:00+05:30"
+  },
+  {
+    "id": "seed-20",
+    "category": "other",
+    "severity": 2,
+    "lat": 9.9801,
+    "lng": 76.2772,
+    "description_en": "Broken footpath slabs on Shanmugham Road exposing an open drain gap",
+    "description_ml": "ഷൺമുഖം റോഡിലെ നടപ്പാത സ്ലാബുകൾ പൊട്ടി തുറന്ന ഓവുചാൽ വിടവ് കാണുന്ന നിലയിൽ",
+    "verified": true,
+    "timestamp": "2026-07-15T10:15:00+05:30"
+  }
+]
