@@ -1,0 +1,30 @@
+﻿<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f172a">
+  <title>CityLens — കൊച്ചിയുടെ കണ്ണ്</title>
+  <link rel="stylesheet" href="/vendor/leaflet.css">
+  <style>
+    :root { color-scheme: dark; font-family: Inter, system-ui, sans-serif; }
+    * { box-sizing: border-box; }
+    body { margin: 0; overflow: hidden; background: #0f172a; color: #f8fafc; }
+    .app-header { position: fixed; inset: 0 0 auto; z-index: 1000; height: 64px; display: flex; align-items: center; padding: 0 20px; background: rgba(15, 23, 42, .94); border-bottom: 1px solid #334155; }
+    h1 { margin: 0; font-size: 1.1rem; font-weight: 750; letter-spacing: .01em; }
+    #map { width: 100vw; height: 100vh; background: #172033; }
+    .report-button { position: fixed; right: 20px; bottom: max(20px, env(safe-area-inset-bottom)); z-index: 1000; min-height: 48px; padding: 0 18px; border: 0; border-radius: 999px; background: #38bdf8; color: #082f49; font: inherit; font-weight: 800; cursor: pointer; box-shadow: 0 8px 24px rgba(0, 0, 0, .35); }
+    .report-button:focus-visible { outline: 3px solid #f8fafc; outline-offset: 3px; }
+    @media (max-width: 390px) { .app-header { height: 56px; padding: 0 16px; } .report-button { right: 16px; } }
+  </style>
+</head>
+<body>
+  <header class="app-header"><h1>CityLens — കൊച്ചിയുടെ കണ്ണ്</h1></header>
+  <main id="map" aria-label="Kochi civic reports map"></main>
+  <button class="report-button" type="button">Report / റിപ്പോർട്ട്</button>
+  <script src="/vendor/leaflet.js"></script>
+  <script>
+    // Map setup arrives with the map-and-pins feature; this is intentionally an empty shell.
+  </script>
+</body>
+</html>
